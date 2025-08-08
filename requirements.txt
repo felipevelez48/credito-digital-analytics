@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+jupyter
+streamlit
+plotly
+joblib
+black
+flake8
+pre-commit
+openpyxl
