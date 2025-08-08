@@ -67,7 +67,7 @@ jupyter lab  # o code notebooks/*.ipynb desde VS Code (kernel del venv)
 streamlit run app/app.py
 ```
 
-** Nota:** Si VS Code no muestra el kernel del venv, seleccionar Python: Select Interpreter y apuntar a venv/Scripts/python.exe.
+-**Nota:** Si VS Code no muestra el kernel del venv, seleccionar Python: Select Interpreter y apuntar a venv/Scripts/python.exe.
 
 ## 🔍 EDA – Hallazgos (resumen)
 
